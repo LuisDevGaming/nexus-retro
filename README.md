@@ -12,6 +12,12 @@ Launcher universal de juegos retro para **Windows 11 y Linux**. Organiza tu cole
 <img width="1917" height="1016" alt="image" src="https://github.com/user-attachments/assets/651edc39-f4b9-4894-8e1c-693c3dfd462a" />
 <img width="1857" height="622" alt="image" src="https://github.com/user-attachments/assets/415ff145-0a35-4e4d-888e-01130dc2921a" />
 
+!Ya está disponible para android! y es compatible con RetroArchievements
+<img width="1600" height="746" alt="image" src="https://github.com/user-attachments/assets/24b16c73-d5ad-4227-b692-bbf6ffc845c8" />
+<img width="1600" height="746" alt="image" src="https://github.com/user-attachments/assets/2aa284e9-7654-4287-ba73-970dfcd16e56" />
+<img width="1600" height="746" alt="image" src="https://github.com/user-attachments/assets/b677724b-b4cf-4371-9000-ac4dc20f4ab0" />
+<img width="1600" height="746" alt="image" src="https://github.com/user-attachments/assets/4e9ea0a5-566f-4147-a339-fdf6ed1dab7f" />
+
 
 
 
