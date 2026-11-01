@@ -1,26 +1,8 @@
 # Nexus Retro
-<img width="920" height="430" alt="nexus-retro-horizontal-920x430" src="https://github.com/user-attachments/assets/0a06692f-cd9a-479d-b5dc-b1498e0a7e9b" />
 
 Launcher universal de juegos retro para **Windows 11 y Linux**. Organiza tu colección, detecta sistemas automáticamente y lanza los juegos con **RetroArch**. La interfaz es original: biblioteca de estilo moderno, modo consola a pantalla completa y navegación completa con mando.
 
-
-
-
 > Nexus Retro no incluye ni descarga ROMs, BIOS ni emuladores. Trabaja solo con tus propios archivos y con instalaciones oficiales de RetroArch.
-<img width="1600" height="826" alt="image" src="https://github.com/user-attachments/assets/14b9711c-a2e3-43b3-ad6a-2ac21d00a77c" />
-<img width="1917" height="1017" alt="image" src="https://github.com/user-attachments/assets/3c0b9907-5aab-49ae-8001-e89fc0a06a90" />
-<img width="1917" height="1016" alt="image" src="https://github.com/user-attachments/assets/651edc39-f4b9-4894-8e1c-693c3dfd462a" />
-<img width="1857" height="622" alt="image" src="https://github.com/user-attachments/assets/415ff145-0a35-4e4d-888e-01130dc2921a" />
-
-!Ya está disponible para android! y es compatible con RetroArchievements
-<img width="1600" height="746" alt="image" src="https://github.com/user-attachments/assets/24b16c73-d5ad-4227-b692-bbf6ffc845c8" />
-<img width="1600" height="746" alt="image" src="https://github.com/user-attachments/assets/2aa284e9-7654-4287-ba73-970dfcd16e56" />
-<img width="1600" height="746" alt="image" src="https://github.com/user-attachments/assets/b677724b-b4cf-4371-9000-ac4dc20f4ab0" />
-<img width="1600" height="746" alt="image" src="https://github.com/user-attachments/assets/4e9ea0a5-566f-4147-a339-fdf6ed1dab7f" />
-
-
-
-
 
 ## Requisitos
 
