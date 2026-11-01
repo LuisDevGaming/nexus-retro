@@ -1,6 +1,29 @@
-# Nexus Retro
+<img width="920" height="430" alt="nexus-retro-horizontal-920x430" src="https://github.com/user-attachments/assets/f9945cb7-77a7-4975-a1cb-c82c7dbd935c" />
 
-Launcher universal de juegos retro para **Windows 11 y Linux**. Organiza tu colección, detecta sistemas automáticamente y lanza los juegos con **RetroArch**. La interfaz es original: biblioteca de estilo moderno, modo consola a pantalla completa y navegación completa con mando.
+Capturas del launcher 
+<img width="1917" height="1012" alt="image" src="https://github.com/user-attachments/assets/54286ecb-ba97-4492-8e40-d6ac25b0ab5b" />
+<img width="1917" height="655" alt="image" src="https://github.com/user-attachments/assets/b3d5f170-9fc4-46d3-82dc-6e6ffb007106" />
+<img width="1917" height="1017" alt="image" src="https://github.com/user-attachments/assets/d2591d31-d249-41a8-85bc-83303cf562c7" />
+<img width="1917" height="1016" alt="image" src="https://github.com/user-attachments/assets/f7db4759-dbef-4cb0-8030-5a507aeee11d" />
+<img width="1917" height="1016" alt="image" src="https://github.com/user-attachments/assets/368ed81e-df87-46ec-ae29-d8c0c0a9d652" />
+<img width="1917" height="1020" alt="image" src="https://github.com/user-attachments/assets/db78b4a5-45fb-4646-9d82-4bb29072c570" />
+
+!DISPONIBLE PARA ANDROID!
+<img width="1600" height="746" alt="image" src="https://github.com/user-attachments/assets/d9b0fc86-13e5-4e54-a54e-57cba37129ee" />
+<img width="1600" height="746" alt="image" src="https://github.com/user-attachments/assets/0517f4c9-4902-4c5f-bf49-a983f6beeeaa" />
+<img width="1600" height="746" alt="image" src="https://github.com/user-attachments/assets/581edc55-d6f0-4ed9-be35-7bd4cc3ab455" />
+
+
+
+
+
+
+
+
+
+
+
+Launcher universal de juegos retro para **Windows 11, Linux y Android**. Organiza tu colección, detecta sistemas automáticamente y lanza los juegos con **RetroArch**. La interfaz es original: biblioteca de estilo moderno, modo consola a pantalla completa y navegación completa con mando.
 
 > Nexus Retro no incluye ni descarga ROMs, BIOS ni emuladores. Trabaja solo con tus propios archivos y con instalaciones oficiales de RetroArch.
 
